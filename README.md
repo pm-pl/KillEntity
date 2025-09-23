@@ -1,5 +1,11 @@
 # KillEntity
 
+
+[![](https://poggit.pmmp.io/shield.api/KillEntity)](https://poggit.pmmp.io/p/KillEntity)
+[![](https://poggit.pmmp.io/shield.state/KillEntity)](https://poggit.pmmp.io/p/KillEntity)
+
+
+
 ## Overview
 
 KillEntity provides a monetary reward to players who successfully defeat specific types of entities. Moreover, you can set up the percentage of money that players will lose if they die during combat!
@@ -26,8 +32,3 @@ percent: 50
 worlds:
 - world
 ```
-
-
-[![](https://poggit.pmmp.io/shield.api/KillEntity)](https://poggit.pmmp.io/p/KillEntity)
-[![](https://poggit.pmmp.io/shield.state/KillEntity)](https://poggit.pmmp.io/p/KillEntity)
-
