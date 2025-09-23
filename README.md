@@ -15,7 +15,7 @@ KillEntity provides a monetary reward to players who successfully defeat specifi
 ```yaml
 #format => name_entity: money
 animals:
-- Zombie: 10
+- Wolf: 10
 - Villager: 20
 # 1 for sending pop-ups
 # 2 for sending messages
@@ -25,12 +25,6 @@ percent: 50
 # enter the name world that you want to be activated
 worlds:
 - world
-```
-
-## Donate
-
-```yaml
-http://paypal.me/nhiwentwest
 ```
 
 
